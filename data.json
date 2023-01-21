@@ -1,0 +1,30 @@
+[
+    {
+        "login": "usama95",
+        "password": "5c323289b8de4228bc2a3b98cbeb1f78",
+        "confirm_password": "5c323289b8de4228bc2a3b98cbeb1f78",
+        "email": "usama@gmail.com",
+        "name": "Usama"
+    },
+    {
+        "login": "usersss",
+        "password": "0a6e79b1eb3dbba24cd0ec0ded5e6aff",
+        "confirm_password": "0a6e79b1eb3dbba24cd0ec0ded5e6aff",
+        "email": "users@mail.ru",
+        "name": "us"
+    },
+    {
+        "login": "ronaldo7",
+        "password": "41a8cfe1555e6bd0a854357b53ece69a",
+        "confirm_password": "41a8cfe1555e6bd0a854357b53ece69a",
+        "email": "ronaldo@gmail.com",
+        "name": "Ronaldo"
+    },
+    {
+        "login": "Anton7",
+        "password": "283f22c935ed8f6041679113a2daf7d1",
+        "confirm_password": "283f22c935ed8f6041679113a2daf7d1",
+        "email": "anton@gmail.com",
+        "name": "Anton"
+    }
+]
